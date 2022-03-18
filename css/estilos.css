@@ -1,0 +1,26 @@
+body {
+    /* height: 100%; */
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    margin-top: 10vh;
+
+    font-size: 80px;
+}
+
+.textos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.foto {
+    border-radius: 100%;
+    width: 45%;
+}
